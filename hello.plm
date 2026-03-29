@@ -1,0 +1,4 @@
+HELLO: DO;
+    DECLARE S LITERALLY 'Hello, World!';
+    OUTPUT = S;
+END HELLO;

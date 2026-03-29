@@ -1,0 +1,3 @@
+// Clipper
+? "Hello, World!"
+QUIT

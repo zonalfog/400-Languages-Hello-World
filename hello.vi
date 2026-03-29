@@ -1,0 +1,4 @@
+# LabVIEW VI file - Hello World
+# This is a binary file format, here's a textual representation
+# Front Panel: String indicator showing "Hello, World!"
+# Block Diagram: String constant wired to String indicator

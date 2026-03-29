@@ -1,0 +1,3 @@
+H DATEDIT(*DMY)
+     C                   DSPLY                   'Hello, World!'
+     C                   SETON                                        LR
