@@ -1,0 +1,4 @@
+(* CLU *)
+hello = proc ()
+            stdout$puts("Hello, World!\n")
+         end hello

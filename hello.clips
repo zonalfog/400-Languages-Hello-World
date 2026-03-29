@@ -1,0 +1,4 @@
+; CLIPS
+(defrule hello
+    =>
+    (printout t "Hello, World!" crlf))

@@ -1,0 +1,3 @@
+'BEGIN'
+    OUTPUT(2,("HELLO, WORLD!"));
+'END'

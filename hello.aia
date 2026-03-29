@@ -1,0 +1,5 @@
+# App Inventor
+# Visual programming - textual representation
+when Button1.Click
+    do
+        call Label1.Text to "Hello, World!"

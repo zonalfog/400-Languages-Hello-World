@@ -1,0 +1,3 @@
+# Arity/Prolog32
+# Simplified representation
+?- write('Hello, World!'), nl.

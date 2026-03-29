@@ -1,0 +1,11 @@
+' B4X (Basic4Android)
+Sub Process_Globals
+End Sub
+
+Sub AppStart (Form1 As Form, Args() As String)
+    Main
+End Sub
+
+Sub Main
+    Log("Hello, World!")
+End Sub

@@ -1,0 +1,4 @@
+PROCEDURE
+    EmptyString := "Hello, World!";
+    DISPLAY EmptyString;
+ENDPROCEDURE;

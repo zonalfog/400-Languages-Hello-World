@@ -1,0 +1,3 @@
+// B-0 (predecessor to BCPL)
+// Simplified representation
+PRINT "Hello, World!"

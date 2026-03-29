@@ -1,0 +1,8 @@
+// C/AL (C/AL Programming Language)
+OBJECT Codeunit 50000 Hello World
+{
+  PROCEDURE HelloWorld;
+  BEGIN
+    MESSAGE('Hello, World!');
+  END;
+}

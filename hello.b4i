@@ -1,0 +1,11 @@
+' B4X (Basic4iOS)
+Sub Process_Globals
+End Sub
+
+Sub AppStart
+    Main
+End Sub
+
+Sub Main
+    Log("Hello, World!")
+End Sub

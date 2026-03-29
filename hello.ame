@@ -1,0 +1,5 @@
+# Amiga E
+# Simplified representation
+PROC main() -> ()
+  WriteF('Hello, World!\n')
+ENDPROC

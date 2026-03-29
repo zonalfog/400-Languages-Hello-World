@@ -1,0 +1,5 @@
+-- Beta (Programmiersprache)
+(#
+    do
+        'Hello, World!' -> putLine;
+#)

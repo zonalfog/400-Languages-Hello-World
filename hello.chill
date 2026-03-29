@@ -1,0 +1,5 @@
+/* CHILL */
+MODULE HELLO;
+BEGIN
+  OUTPUT ("Hello, World!");
+END HELLO.

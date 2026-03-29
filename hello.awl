@@ -1,0 +1,4 @@
+// Anweisungsliste (AWL)
+NETWORK 1
+LD "Hello, World!"
+PRNT

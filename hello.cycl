@@ -1,0 +1,2 @@
+;; CycL
+(create-term 'Hello-World 'greeting "Hello, World!")

@@ -1,0 +1,11 @@
+' B4X (Basic4Java)
+Sub Process_Globals
+End Sub
+
+Sub AppStart (Args() As String)
+    Main
+End Sub
+
+Sub Main
+    Log("Hello, World!")
+End Sub

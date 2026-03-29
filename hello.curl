@@ -1,0 +1,3 @@
+{curl 8.0 applet}
+{curl-file-attributes character-encoding = "utf-8"}
+{text "Hello, World!"}

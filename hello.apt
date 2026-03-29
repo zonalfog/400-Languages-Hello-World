@@ -1,0 +1,9 @@
+// Automatically Programmed Tools (APT)
+PARTNO HELLO_WORLD
+MACHIN/
+CUTTER/1,0,0
+FROM/0,0,0
+GOTO/1,0,0
+PRINT/'Hello, World!'
+GOTO/0,0,0
+FINI
