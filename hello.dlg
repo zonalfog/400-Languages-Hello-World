@@ -1,0 +1,3 @@
+# Datalog
+# Simplified representation
+hello("Hello, World!").

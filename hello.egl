@@ -1,0 +1,6 @@
+// Enterprise Generation Language (EGL)
+program Hello
+    function main()
+        SysLib.writeStdout("Hello, World!");
+    end
+end

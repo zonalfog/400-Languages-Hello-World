@@ -1,0 +1,4 @@
+# DarkBASIC
+PRINT "Hello, World!"
+WAIT KEY
+END

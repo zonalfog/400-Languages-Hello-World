@@ -1,0 +1,3 @@
+# Gofer
+# Simplified representation
+putStrLn "Hello, World!"

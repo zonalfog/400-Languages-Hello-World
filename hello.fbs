@@ -1,0 +1,7 @@
+# Funktionsbausteinsprache (FBS)
+# Simplified representation
+FUNCTION_BLOCK HELLO
+VAR_OUTPUT
+    Message : STRING := 'Hello, World!';
+END_VAR
+END_FUNCTION_BLOCK
