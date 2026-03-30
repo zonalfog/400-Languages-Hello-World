@@ -181,7 +181,7 @@ Also Some files might look unusual. For example, hello.ws (Whitespace) consists 
 
 
 
-## Download ## Links for the Pogramming Languages (pls download not all because its more than 1tb no joke! also it can break your system. Only make sure u download only the pogramming languages that you want!) :
+## Download ## Links for the Pogramming Languages (pls download not all because its more than 1tb no joke! also it can break your system. Only make sure u download only the pogramming languages that you want or needed for games or pogramming!) :
 # not all but i updatet it too add more!
 | Download | Name |
 | :--- | :--- |
