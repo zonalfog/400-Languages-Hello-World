@@ -181,7 +181,7 @@ Also Some files might look unusual. For example, hello.ws (Whitespace) consists 
 
 
 
-## Download ## Links :
+## Download ## Links for the Pogramming Languages (pls download not all because its more than 1tb no joke!) :
 # not all but i updatet it too add more!
 | Download | Name |
 | :--- | :--- |
