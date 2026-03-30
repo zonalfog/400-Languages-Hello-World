@@ -206,7 +206,7 @@ Also Some files might look unusual. For example, hello.ws (Whitespace) consists 
 | [https://agentsheets.com/] | AgentSheets & AgentCubes |
 | [https://appinventor.mit.edu/] | App Inventor |
 | [https://www.aimms.com/support/downloads/] | AIMMS |
-| [https://de.4d.com/product-download/Feature-Release] | 4D |
+| [https://github.com/aldorlang/aldor] | Aldor |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
