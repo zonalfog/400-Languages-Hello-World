@@ -1,0 +1,4 @@
+// AdvPL
+User Function Hello()
+    MsgInfo("Hello, World!")
+Return

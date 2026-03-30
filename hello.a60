@@ -1,0 +1,4 @@
+# ALGOL 60
+'BEGIN'
+    OUTPUT(2,("HELLO, WORLD!"));
+'END'
