@@ -191,8 +191,8 @@ Also Some files might look unusual. For example, hello.ws (Whitespace) consists 
 | [No Link] | ALGOL 60 |
 | [https://jmvdveer.home.xs4all.nl/en.download.algol-68-genie-current.html] | ALGOL 68 |
 | [No Link] | ABAP |
-| [https://de.4d.com/product-download/Feature-Release] | 4D |
-| [https://de.4d.com/product-download/Feature-Release] | 4D |
+| [No Link] | ABC |
+| [No Link] | Accent |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
