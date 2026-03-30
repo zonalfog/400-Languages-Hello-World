@@ -185,4 +185,4 @@ Also Some files might look unusual. For example, hello.ws (Whitespace) consists 
 # not all but i updatet it too add more!
 | Download | Name |
 | :--- | :--- |
-| [https://de.4d.com/product-download/Feature-Release] (4d) | |
+| [https://de.4d.com/product-download/Feature-Release] | 4D |
