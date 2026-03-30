@@ -217,7 +217,7 @@ Also Some files might look unusual. For example, hello.ws (Whitespace) consists 
 | [No Link] | AmigaBASIC |
 | [https://wiki.c2.com/?AmigaEe] | Amiga E |
 | [https://support.esri.com/en-us/overview] | AML (to install u need a license) |
-| [https://de.4d.com/product-download/Feature-Release] | 4D |
+| [https://github.com/AOZ-Studio/AMOS-Professional-Official] | AMOS BASIC |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
 | [https://de.4d.com/product-download/Feature-Release] | 4D |
