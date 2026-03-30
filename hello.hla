@@ -1,0 +1,6 @@
+# High Level Assembly (HLA)
+program Hello;
+#include( "stdlib.hhf" )
+begin Hello;
+    stdout.put( "Hello, World!", nl );
+end Hello;

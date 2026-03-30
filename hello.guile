@@ -1,0 +1,5 @@
+# GNU Guile (GNU Ubiquitous Intelligent Language for Extensions)
+#!/usr/bin/guile -s
+!#
+(display "Hello, World!")
+(newline)

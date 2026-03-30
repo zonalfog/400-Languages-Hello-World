@@ -1,0 +1,3 @@
+# GRASS
+# Simplified representation
+PRINT "Hello, World!"

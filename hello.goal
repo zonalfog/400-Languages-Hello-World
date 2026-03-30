@@ -1,0 +1,3 @@
+# Game Oriented Assembly Lisp (GOAL)
+# Simplified representation
+(print "Hello, World!")

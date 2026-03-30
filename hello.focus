@@ -1,0 +1,5 @@
+# FOCUS
+# Simplified representation
+TABLE FILE HELLO
+PRINT "HELLO, WORLD!"
+END

@@ -1,0 +1,7 @@
+# General Purpose Simulation System (GPSS)
+# Simplified representation
+GENERATE 100,,1
+ADVANCE 10
+TERMINATE 1
+START 1
+; Hello, World! simulation
