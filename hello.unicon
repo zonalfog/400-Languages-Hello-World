@@ -1,0 +1,4 @@
+# Unicon
+procedure main()
+  write("Hello, World!")
+end
